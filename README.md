@@ -189,8 +189,6 @@ Endmodule
 
 ![updown counter vlsi](https://github.com/nithin2134/VLSI-LAB-EXP-4/assets/160302970/63e24e65-fd36-4605-983f-331967760c5d
 
-
-
 # VERILOG CODE:
 
 module updown(clk,rst,updown,out);
