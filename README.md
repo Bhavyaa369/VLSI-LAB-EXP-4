@@ -313,7 +313,3 @@ endmodule
 # RESULT:
 
 Thus simulate and synthesis JK-Flipflop, SR-Flipflop, T-Flipflop, D-Flipflop And counters was succesfully executed and verified.
-
-
-
-
