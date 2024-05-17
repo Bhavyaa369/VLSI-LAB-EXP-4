@@ -72,7 +72,7 @@ end
 Endmodule
 
 # Output:
-![image](https://github.com/mattikuravasowmya/VLSI-LAB-EXP-4/assets/161432676/769a480e-09db-4c46-a8bb-051af3e0bd15)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-4/assets/161432676/769a480e-09db-4c46-a8bb-051af3e0bd15)
 
 # JK FLIPFLOP:
 
@@ -114,7 +114,7 @@ end
 Endmodule
 
 # Output:
-![image](https://github.com/mattikuravasowmya/VLSI-LAB-EXP-4/assets/161432676/eb5473a7-893b-4808-b86d-ccde2e90c239)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-4/assets/161432676/eb5473a7-893b-4808-b86d-ccde2e90c239)
 
 
 # T FLIPFLOP:
@@ -150,7 +150,7 @@ end
 Endmodule
 
 # Output:
-![image](https://github.com/mattikuravasowmya/VLSI-LAB-EXP-4/assets/161432676/9473331d-cb54-4894-93d3-0c90a0107b8d)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-4/assets/161432676/9473331d-cb54-4894-93d3-0c90a0107b8d)
 
 # D FLIPFLOP:
 
@@ -181,7 +181,7 @@ end
 Endmodule
 
 # Output:
-![image](https://github.com/mattikuravasowmya/VLSI-LAB-EXP-4/assets/161432676/2178ca23-708b-4534-ab1b-97cdc0f0b5c9)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-4/assets/161432676/2178ca23-708b-4534-ab1b-97cdc0f0b5c9)
 
 # COUNTER:
 
@@ -189,7 +189,7 @@ Endmodule
 
 4bit UPDOWN COUNTER
 
-![updown counter vlsi](https://github.com/nithin2134/VLSI-LAB-EXP-4/assets/160302970/63e24e65-fd36-4605-983f-331967760c5d
+![updown counter vlsi](https://github.com/Bhavyaa369/VLSI-LAB-EXP-4/assets/160302970/63e24e65-fd36-4605-983f-331967760c5d
 
 
 
@@ -218,11 +218,11 @@ end
 endmodule
 
 # Output:
-![image](https://github.com/mattikuravasowmya/VLSI-LAB-EXP-4/assets/161432676/b43edadc-0aed-461b-ab38-8c77b9c0c3ad)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-4/assets/161432676/b43edadc-0aed-461b-ab38-8c77b9c0c3ad)
 
 # MOD 10 COUNER:
 
-![mod 10 counter vklsi](https://github.com/nithin2134/VLSI-LAB-EXP-4/assets/160302970/3556b90c-52b2-417d-84ce-472a90963995)
+![mod 10 counter vklsi](https://github.com/Bhavyaa369/VLSI-LAB-EXP-4/assets/160302970/3556b90c-52b2-417d-84ce-472a90963995)
 
 # VERILOG CODE:
 
@@ -250,11 +250,11 @@ endmodule
 
 # Output:
 
-![image](https://github.com/mattikuravasowmya/VLSI-LAB-EXP-4/assets/161432676/fd98cabb-9ac5-4eac-8f5a-81e29ca44c22)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-4/assets/161432676/fd98cabb-9ac5-4eac-8f5a-81e29ca44c22)
 
 # RIPPLE CARRY COUNTER:
 
-![rca couner](https://github.com/nithin2134/VLSI-LAB-EXP-4/assets/160302970/fe056bd8-8771-4f4e-8b23-7d40e1704e9a)
+![rca couner](https://github.com/Bhavyaa369/VLSI-LAB-EXP-4/assets/160302970/fe056bd8-8771-4f4e-8b23-7d40e1704e9a)
 
 **VERILOG CODE**
 
@@ -310,7 +310,7 @@ endmodule
 
 # Output:
 
-![image](https://github.com/mattikuravasowmya/VLSI-LAB-EXP-4/assets/161432676/93954bbc-bb8f-43d1-a6ce-a5092bceadfc)
+![image](https://github.com/Bhavyaa369/VLSI-LAB-EXP-4/assets/161432676/93954bbc-bb8f-43d1-a6ce-a5092bceadfc)
 
 # RESULT:
 
